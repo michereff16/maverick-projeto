@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+/* CSS geral do projeto */
+
 * {
     margin: 0;
     padding: 0;
@@ -236,4 +238,5 @@ span {
         grid-template-columns: 1fr;
         margin-top: 150px;
     }
+
 }
