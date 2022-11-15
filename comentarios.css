@@ -68,3 +68,22 @@ p {
     font-size: 18px;
     background-color: white;
 }
+
+@media(max-width: 768px){
+    .footer-navigation {
+        display: block;
+    }
+
+    nav {
+        display: none;
+    }
+
+    #cards {
+        background-position: 40%;
+    }
+
+    .cards {
+        grid-template-columns: 1fr;
+        padding: 0 10px 0 10px;
+    }
+}
