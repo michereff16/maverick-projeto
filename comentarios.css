@@ -40,15 +40,25 @@ body h1 {
     height: 100px;
     border-radius: 50%;
     margin-bottom: 15px;
+    background-color: white;
 }
 
 .card h3 {
     font-family: 'Roboto';
     margin-bottom: 5px;
+    background-color: white;
+}
+
+h3 {
+    background-color: white;
 }
 
 .star {
     width: 20px;
+}
+
+.stars {
+    background-color: white;
 }
 
 p {
@@ -56,5 +66,5 @@ p {
     text-align: center;
     font-family: 'Roboto';
     font-size: 18px;
-
+    background-color: white;
 }
